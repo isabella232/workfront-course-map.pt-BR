@@ -1,31 +1,31 @@
 ---
-title: Agile no Adobe Workfront
-description: mapeando cursos do workfront one para cursos da experience league
+title: Metodologia ágil no Adobe Workfront
+description: Mapeamento de cursos do Workfront One para cursos da Experience League
 exl-id: 5d096662-3547-4d25-9d6e-e5fe2b5eee6f
 source-git-commit: 9d3ddc788072eb4dbb1192e76bf1ad169df0eb8e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '123'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Agile no Adobe Workfront
+# Metodologia ágil no Adobe Workfront
 
-Os seguintes Caminhos de aprendizagem do Workfront One,
+Os seguintes roteiros de aprendizagem do Workfront One,
 
-* Introdução ao gerenciamento de trabalho Agile
+* Introdução ao gerenciamento de trabalho ágil
 * Scrum e Kanban no Workfront
 
-foram consolidados em um novo curso de Experience League otimizado [Criar e gerenciar trabalho com uma metodologia Agile](https://experienceleague.adobe.com/?recommended=Workfront-L-1-2022.1.agile).
+foram consolidados em um novo curso otimizado da Experience League: [Criar e gerenciar trabalho com uma metodologia Ágil](https://experienceleague.adobe.com/?recommended=Workfront-L-1-2022.1.agile).
 
-* [Introdução ao Workfront para administradores do sistema](https://experienceleague.adobe.com/?recommended=Workfront-A-1-2022.1.admin){target="_blank"}
-* [Aprimore seu conhecimento sobre as configurações do sistema para administradores do Workfront](https://experienceleague.adobe.com/?recommended=Workfront-A-1-2022.2.admin){target="_blank"}
+* [Introdução ao Workfront para admins de sistema](https://experienceleague.adobe.com/?recommended=Workfront-A-1-2022.1.admin){target="_blank"}
+* [Conheça ainda mais sobre as configurações do sistema para admins do Workfront](https://experienceleague.adobe.com/?recommended=Workfront-A-1-2022.2.admin){target="_blank"}
 
-O novo curso Experience League abrange os mesmos objetivos de aprendizagem que os caminhos de aprendizagem anteriores e foi otimizado, sempre que possível, para proporcionar uma experiência de aprendizagem abrangente.  Explore a biblioteca completa de cursos, documentação, tutoriais e comunidades do Workfront no Experience League.
+O novo curso da Experience League abrange os mesmos objetivos de aprendizado dos roteiros anteriores, mas foi otimizado ao máximo para oferecer uma experiência de aprendizado abrangente.  Explore a biblioteca completa de cursos, documentação, tutoriais e comunidades do Workfront na Experience League.
 
 ## Recursos adicionais
 
-* [Cursos do Workfront](https://experienceleague.adobe.com/?lang=en&amp;Solution=Workfront#courses)
-* [Documentação do Workfront](https://experienceleague.adobe.com/docs/workfront.html)
-* [Workfront Tutorials](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html)
-* [Comunidades Workfront](https://experienceleaguecommunities.adobe.com/t5/workfront/ct-p/workfront)
+* [Cursos do Workfront](https://experienceleague.adobe.com/?lang=pt-BR&amp;Solution=Workfront#courses)
+* [Documentação do Workfront](https://experienceleague.adobe.com/docs/workfront.html?lang=pt-BR)
+* [Tutoriais do Workfront](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html?lang=pt-BR)
+* [Comunidades do Workfront](https://experienceleaguecommunities.adobe.com/t5/workfront/ct-p/workfront)

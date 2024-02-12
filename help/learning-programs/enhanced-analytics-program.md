@@ -1,17 +1,17 @@
 ---
-title: Analítica aprimorada
-description: mapeando cursos do workfront one para cursos da experience league
+title: Análise aprimorada
+description: Mapeamento de cursos do Workfront One para cursos da Experience League
 exl-id: a3aaa1f8-047e-4d5b-9740-3526a378689d
 source-git-commit: c43fb577b22dddb61c76adb0a3351c0777852a69
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '55'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Analítica aprimorada
+# Análise aprimorada
 
-No momento, estamos no processo de reconstrução do conteúdo deste curso para o Experience League.  Pedimos desculpas pelo transtorno.  Esperamos ter esse conteúdo do curso online em breve.
+No momento, estamos no processo de reconstrução do conteúdo deste curso para a Experience League.  Pedimos desculpas pelo transtorno.  Esperamos ter esse conteúdo do curso online em breve.
 
 <!---Learn how to manage your current work and plan future work more accurately by identifying data trends.
 
@@ -94,7 +94,7 @@ No momento, estamos no processo de reconstrução do conteúdo deste curso para 
 
 ## Recursos adicionais
 
-* [Cursos do Workfront](https://experienceleague.adobe.com/?lang=en&amp;Solution=Workfront#courses)
-* [Documentação do Workfront](https://experienceleague.adobe.com/docs/workfront.html)
-* [Workfront Tutorials](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html)
-* [Comunidades Workfront](https://experienceleaguecommunities.adobe.com/t5/workfront/ct-p/workfront)
+* [Cursos do Workfront](https://experienceleague.adobe.com/?lang=pt-BR&amp;Solution=Workfront#courses)
+* [Documentação do Workfront](https://experienceleague.adobe.com/docs/workfront.html?lang=pt-BR)
+* [Tutoriais do Workfront](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html?lang=pt-BR)
+* [Comunidades do Workfront](https://experienceleaguecommunities.adobe.com/t5/workfront/ct-p/workfront)

@@ -1,23 +1,23 @@
 ---
-title: Gestão de problemas
-description: mapeando cursos do workfront one para cursos da experience league
+title: Gerenciamento de problemas
+description: Mapeamento de cursos do Workfront One para cursos da Experience League
 exl-id: 6bb78fb1-9177-487b-9215-48fc407131f7
 source-git-commit: 46990991986a747fd2cf3be15d479378df5b6345
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '90'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Gestão de problemas
+# Gerenciamento de problemas
 
-A variável *Gestão de problemas* O Caminho de aprendizagem do Workfront One foi migrado para o [Melhor compreensão do gerenciamento do trabalho como planejador](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.4.reporting){target="_blank"} no Experience League
+O roteiro de aprendizagem *Gerenciar problemas* do Workfont One foi migrado para o curso [Entender melhor o gerenciamento de trabalhos como planejador](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.4.reporting){target="_blank"} na Experience League.
 
-O novo curso Experience League abrange os mesmos objetivos de aprendizagem que o caminho de aprendizagem anterior e foi otimizado, sempre que possível, para proporcionar uma experiência de aprendizagem abrangente.  Explore a biblioteca completa de cursos, documentação, tutoriais e comunidades do Workfront no Experience League.
+O novo curso da Experience League abrange os mesmos objetivos de aprendizado do roteiro anterior, mas foi otimizado ao máximo para oferecer uma experiência de aprendizado abrangente.  Explore a biblioteca completa de cursos, documentação, tutoriais e comunidades do Workfront na Experience League.
 
 ## Recursos adicionais
 
-* [Cursos do Workfront](https://experienceleague.adobe.com/?lang=en&amp;Solution=Workfront#courses)
-* [Documentação do Workfront](https://experienceleague.adobe.com/docs/workfront.html)
-* [Workfront Tutorials](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html)
-* [Comunidades Workfront](https://experienceleaguecommunities.adobe.com/t5/workfront/ct-p/workfront)
+* [Cursos do Workfront](https://experienceleague.adobe.com/?lang=pt-BR&amp;Solution=Workfront#courses)
+* [Documentação do Workfront](https://experienceleague.adobe.com/docs/workfront.html?lang=pt-BR)
+* [Tutoriais do Workfront](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html?lang=pt-BR)
+* [Comunidades do Workfront](https://experienceleaguecommunities.adobe.com/t5/workfront/ct-p/workfront)

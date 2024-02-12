@@ -1,35 +1,35 @@
 ---
-title: Fundamentos do administrador para a nova experiência do Workfront
-description: mapeando cursos do workfront one para cursos da experience league
+title: Fundamentos de administração para a nova experiência do Workfront
+description: Mapeamento de cursos do Workfront One para cursos da Experience League
 exl-id: b4033c37-d8a5-469a-abf7-a09ab47a1ede
 source-git-commit: c43fb577b22dddb61c76adb0a3351c0777852a69
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '356'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Fundamentos do administrador para a nova experiência do Workfront
+# Fundamentos de administração para a nova experiência do Workfront
 
-Se você estiver implementando um novo sistema ou fazendo atualizações em um sistema existente, é necessário navegar pelo mar de configurações. Saiba como configurar usuários e otimizar o trabalho com configurações do sistema.
+Seja ao implementar um novo sistema ou atualizar um existente, você precisa saber navegar pelas diversas configurações disponíveis. Aprenda a configurar usuários e otimizar o trabalho com as configurações do sistema.
 
 >[!IMPORTANT]
 >
->**Observe que esse antigo Programa de aprendizado do Workfront One está agora mapeado para os cursos recém-migrados e otimizados do Experience League Workfront.  Todos os mesmos objetivos de aprendizado são cobertos pela nova estrutura.**.
+>**Observe que este antigo programa de aprendizagem do Workfront One agora está mapeado para os cursos recém-migrados e otimizados do Workfront na Experience League.  Todos os mesmos objetivos de aprendizado são abordados pela nova estrutura.**.
 
 <table>
   <tr>
    <td>
       <a href="https://experienceleague.adobe.com/?recommended=Workfront-A-1-2022.1.admin">
-      <img alt="Introdução ao Workfront para administradores do sistema" src="https://cdn.experienceleague.adobe.com/thumb/get-started-with-workfront-for-system-administrators.png"/>
+      <img alt="Introdução ao Workfront para admins de sistema" src="https://cdn.experienceleague.adobe.com/thumb/get-started-with-workfront-for-system-administrators.png"/>
       </a>
       <div>
-         <strong>Introdução ao Workfront para administradores do sistema</strong></a>
+         <strong>Introdução ao Workfront para admins de sistema</strong></a>
          <br/><em>44 minutos</em>
       </div>
       <p>
         <br/>
-         Aprenda os primeiros passos para configurar usuários e otimizar sua experiência com as configurações do sistema.
+         Descubra as primeiras etapas para se configurar usuários e otimizar sua experiência com as configurações do sistema.
       </p>
       <a  rel="noreferrer" target="_blank" href="https://experienceleague.adobe.com/?recommended=Workfront-A-1-2022.1.admin" class="spectrum-Button spectrum-Button--primary spectrum-Button--sizeM">
       <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ir para o curso</span>
@@ -37,15 +37,15 @@ Se você estiver implementando um novo sistema ou fazendo atualizações em um s
    </td>   
    <td>
       <a href="https://experienceleague.adobe.com/?recommended=Workfront-A-1-2022.2.admin">
-      <img alt="Aprimore seu conhecimento sobre as configurações do sistema para administradores do sistema" src="https://cdn.experienceleague.adobe.com/thumb/further-your-system-settings-knowledge-for-system-administrators.png"/>
+      <img alt="Entender melhor sobre as configurações para admins de sistema" src="https://cdn.experienceleague.adobe.com/thumb/further-your-system-settings-knowledge-for-system-administrators.png"/>
       </a>
       <div>
-         <strong>Aprimore seu conhecimento sobre as configurações do sistema para administradores do sistema</strong></a>
+         <strong>Entender melhor sobre as configurações para admins de sistema</strong></a>
          <br/><em>1 hora</em>
       </div>
       <p>
         <br/>
-         Saiba mais sobre as configurações do sistema para aprimorar a experiência dos usuários, incluindo organização de usuários, formulários personalizados, processos e marcos de aprovação e modelos de layout.
+         Saiba mais sobre as configurações do sistema para aprimorar a experiência dos usuários, incluindo conceitos como: organização de usuários, formulários personalizados, processos e marcos de aprovação e modelos de layout.
       </p>
       <a  rel="noreferrer" target="_blank" href="https://experienceleague.adobe.com/?recommended=Workfront-A-1-2022.2.admin" class="spectrum-Button spectrum-Button--primary spectrum-Button--sizeM">
       <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ir para o curso</span>
@@ -53,15 +53,15 @@ Se você estiver implementando um novo sistema ou fazendo atualizações em um s
    </td>
     <td>
       <a href="https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.3.planners">
-      <img alt="Melhor compreensão do gerenciamento do trabalho como planejador" src="https://cdn.experienceleague.adobe.com/thumb/further-understanding-of-managing-work-as-a-planner.png"/>
+      <img alt="Entender melhor o gerenciamento de trabalhos como planejador" src="https://cdn.experienceleague.adobe.com/thumb/further-understanding-of-managing-work-as-a-planner.png"/>
       </a>
       <div>
-         <strong>Melhor compreensão do gerenciamento do trabalho como planejador</strong></a>
-         <br/><em>1 hora, 6 minutos</em>
+         <strong>Entender melhor o gerenciamento de trabalhos como planejador</strong></a>
+         <br/><em>1 hora e 6 minutos</em>
       </div>
       <p>
         <br/>
-         Depois de aprender as noções básicas sobre criação, planejamento e gerenciamento de projetos, há mais algumas coisas que você deve saber para aproveitar ao máximo o Workfront.
+         Depois de aprender os conceitos básicos sobre criação, planejamento e gerenciamento de projetos, há mais algumas coisas que você deve saber para aproveitar ao máximo o Workfront.
       </p>
       <a  rel="noreferrer" target="_blank" href="https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.3.planners" class="spectrum-Button spectrum-Button--primary spectrum-Button--sizeM">
       <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ir para o curso</span>
@@ -70,18 +70,18 @@ Se você estiver implementando um novo sistema ou fazendo atualizações em um s
   </tr>
   <tr>
    <td>
-      <a href="https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.1.reporting">
-      <img alt="Elementos básicos de relatórios" src="https://cdn.experienceleague.adobe.com/thumb/basic-reporting-elements.png"/>
+      <a href="https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.1.reporting?lang=pt-BR">
+      <img alt="Elementos básicos de relatório" src="https://cdn.experienceleague.adobe.com/thumb/basic-reporting-elements.png"/>
       </a>
       <div>
-         <strong>Elementos básicos de relatórios</strong></a>
+         <strong>Elementos básicos de relatório</strong></a>
          <br/><em>44 minutos</em>
       </div>
       <p>
         <br/>
-         Os elementos de relatórios são os filtros, as exibições e os agrupamentos encontrados em todos os relatórios de lista no Workfront. Saber mais sobre isso ajudará você a criar relatórios e calendários personalizados.
+         Os elementos de relatório são os filtros, visualizações e agrupamentos encontrados em todos os relatórios de lista no Workfront. Aprender sobre esses elementos ajudará você a criar relatórios e calendários personalizados.
       </p>
-      <a  rel="noreferrer" target="_blank" href="https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.1.reporting" class="spectrum-Button spectrum-Button--primary spectrum-Button--sizeM">
+      <a  rel="noreferrer" target="_blank" href="https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.1.reporting?lang=pt-BR" class="spectrum-Button spectrum-Button--primary spectrum-Button--sizeM">
       <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ir para o curso</span>
       </a>
    </td>
@@ -95,7 +95,7 @@ Se você estiver implementando um novo sistema ou fazendo atualizações em um s
       </div>
       <p>
         <br/>
-         Relatórios são as janelas para seus dados. Saiba como criar três tipos diferentes de relatórios no Workfront e usá-los em painéis.
+         Os relatórios são como janelas para os seus dados. Aprenda a criar três tipos diferentes de relatórios no Workfront e utilizá-los em painéis.
       </p>
       <a  rel="noreferrer" target="_blank" href="https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.3.reporting" class="spectrum-Button spectrum-Button--primary spectrum-Button--sizeM">
       <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ir para o curso</span>
@@ -111,7 +111,7 @@ Se você estiver implementando um novo sistema ou fazendo atualizações em um s
       </div>
       <p>
         <br/>
-         Com um calendário personalizado, você pode exibir datas e informações diretamente de projetos, tarefas e problemas em um formato de calendário.
+         Um calendário personalizado permite exibir datas e informações diretamente de projetos, tarefas e problemas em um formato de calendário.
       </p>
       <a  rel="noreferrer" target="_blank" href="https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.4.reporting" class="spectrum-Button spectrum-Button--primary spectrum-Button--sizeM">
       <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ir para o curso</span>
@@ -123,7 +123,7 @@ Se você estiver implementando um novo sistema ou fazendo atualizações em um s
 
 ## Recursos adicionais
 
-* [Cursos do Workfront](https://experienceleague.adobe.com/?lang=en&amp;Solution=Workfront#courses)
-* [Documentação do Workfront](https://experienceleague.adobe.com/docs/workfront.html)
-* [Workfront Tutorials](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html)
-* [Comunidades Workfront](https://experienceleaguecommunities.adobe.com/t5/workfront/ct-p/workfront)
+* [Cursos do Workfront](https://experienceleague.adobe.com/?lang=pt-BR&amp;Solution=Workfront#courses)
+* [Documentação do Workfront](https://experienceleague.adobe.com/docs/workfront.html?lang=pt-BR)
+* [Tutoriais do Workfront](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html?lang=pt-BR)
+* [Comunidades do Workfront](https://experienceleaguecommunities.adobe.com/t5/workfront/ct-p/workfront)

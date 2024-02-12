@@ -1,37 +1,37 @@
 ---
-title: Conectores e roteamento universais
-description: mapeando cursos do workfront one para cursos da experience league
+title: Conectores universais e roteamento
+description: Mapeamento de cursos do Workfront One para cursos da Experience League
 exl-id: 4ac201fc-9668-453f-8a6d-3e767f8c4b6d
 source-git-commit: a35951f56d4d0b0c978b11671ca119541234270a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '139'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Conectores e roteamento universais
+# Conectores universais e roteamento
 
-Os seguintes Caminhos de aprendizagem do Workfront One,
+Os seguintes roteiros de aprendizagem do Workfont One,
 
-* Bem-vindo ao Workfront Fusion
+* Boas-vindas ao Workfront Fusion
 * Noções básicas
-* Conectores e roteamento universais
+* Conectores universais e roteamento
 * Iteração e agregação
 * Histórico de execução e agendamento
 * Além dos módulos básicos
-* Estruturas e armazenamentos de dados
-* Bits e bobs funcionais finais
+* Estruturas de dados e armazenamentos de dados
+* Detalhes finais sobre funcionalidades
 * Solução de problemas e tratamento de erros
 * Administração do Workfront Fusion
-* Otimização e teste do projeto
+* Otimização e testes de design
 
-foram otimizados e recriados como tutoriais do Experience League, clique no link [Visão geral do Workfront Fusion](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/welcome-to-workfront-fusion/workfront-fusion-overview.html?lang=en){target="_blank"} tutorial para começar.
+foram otimizados e reconstruídos como tutoriais da Experience League; clique no tutorial [Visão geral do Workfront Fusion](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/welcome-to-workfront-fusion/workfront-fusion-overview.html?lang=pt-BR){target="_blank"} para começar.
 
-Os novos tutoriais do Experience League abrangem os mesmos objetivos de aprendizado que os caminhos de aprendizado anteriores e foram otimizados, quando possível, para fornecer uma experiência de aprendizado abrangente.  Explore a biblioteca completa de cursos, documentação, tutoriais e comunidades do Workfront no Experience League.
+Os novos tutoriais da Experience League abrangem os mesmos objetivos de aprendizado dos roteiros anteriores, mas foram otimizados ao máximo para oferecer uma experiência de aprendizado abrangente.  Explore a biblioteca completa de cursos, documentação, tutoriais e comunidades do Workfront na Experience League.
 
 ## Recursos adicionais
 
-* [Cursos do Workfront](https://experienceleague.adobe.com/?lang=en&amp;Solution=Workfront#courses)
-* [Documentação do Workfront](https://experienceleague.adobe.com/docs/workfront.html)
-* [Workfront Tutorials](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html)
-* [Comunidades Workfront](https://experienceleaguecommunities.adobe.com/t5/workfront/ct-p/workfront)
+* [Cursos do Workfront](https://experienceleague.adobe.com/?lang=pt-BR&amp;Solution=Workfront#courses)
+* [Documentação do Workfront](https://experienceleague.adobe.com/docs/workfront.html?lang=pt-BR)
+* [Tutoriais do Workfront](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html?lang=pt-BR)
+* [Comunidades do Workfront](https://experienceleaguecommunities.adobe.com/t5/workfront/ct-p/workfront)

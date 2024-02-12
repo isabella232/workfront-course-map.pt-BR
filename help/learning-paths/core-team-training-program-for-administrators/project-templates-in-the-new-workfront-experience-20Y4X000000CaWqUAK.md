@@ -1,30 +1,30 @@
 ---
 title: Modelos de projeto
-description: mapeando cursos do workfront one para cursos da experience league
+description: Mapeamento de cursos do Workfront One para cursos da Experience League
 exl-id: dbec744f-03bb-47f0-b939-76889758f5c6
 source-git-commit: b0ac8b76071ade5f59b51060d2af3909c740c8b4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '99'
-ht-degree: 3%
+ht-degree: 100%
 
 ---
 
 # Modelos de projeto
 
-Os quatro Caminhos de aprendizagem do Workfront One a seguir,
+Os quatro roteiros de aprendizagem do Workfront One a seguir,
 
 * Modelos de projeto
 * Etapas
 * Processos de aprovação
-* Gestão de problemas
+* Gerenciamento de problemas
 
-foram combinados em um único curso de Experience League, [Melhor compreensão do gerenciamento do trabalho como planejador](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.3.planners){target="_blank"}.
+foram combinados em um único curso na Experience League, [Entender melhor o gerenciamento de trabalho como planejador](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.3.planners){target="_blank"}.
 
-O novo curso Experience League abrange os mesmos objetivos de aprendizagem que os caminhos de aprendizagem anteriores e foi otimizado, sempre que possível, para proporcionar uma experiência de aprendizagem abrangente.  Explore a biblioteca completa de cursos, documentação, tutoriais e comunidades do Workfront no Experience League.
+O novo curso da Experience League abrange os mesmos objetivos de aprendizado dos roteiros anteriores, mas foi otimizado ao máximo para oferecer uma experiência de aprendizado abrangente.  Explore a biblioteca completa de cursos, documentação, tutoriais e comunidades do Workfront na Experience League.
 
 ## Recursos adicionais
 
-* [Cursos do Workfront](https://experienceleague.adobe.com/?lang=en&amp;Solution=Workfront#courses)
-* [Documentação do Workfront](https://experienceleague.adobe.com/docs/workfront.html)
-* [Workfront Tutorials](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html)
-* [Comunidades Workfront](https://experienceleaguecommunities.adobe.com/t5/workfront/ct-p/workfront)
+* [Cursos do Workfront](https://experienceleague.adobe.com/?lang=pt-BR&amp;Solution=Workfront#courses)
+* [Documentação do Workfront](https://experienceleague.adobe.com/docs/workfront.html?lang=pt-BR)
+* [Tutoriais do Workfront](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html?lang=pt-BR)
+* [Comunidades do Workfront](https://experienceleaguecommunities.adobe.com/t5/workfront/ct-p/workfront)

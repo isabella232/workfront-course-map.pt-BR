@@ -1,29 +1,29 @@
 ---
-title: Fundamentos do planejador para a nova experiência do Workfront Parte 4
-description: mapeando cursos do workfront one para cursos da experience league
+title: Fundamentos de planejamento para a nova experiência do Workfront, parte 4
+description: Mapeamento de cursos do Workfront One para cursos da Experience League
 exl-id: 0c74e711-60d4-4cd5-8941-c61d53663942
 source-git-commit: b0ac8b76071ade5f59b51060d2af3909c740c8b4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '129'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Fundamentos do planejador para a nova experiência do Workfront Parte 4
+# Fundamentos de planejamento para a nova experiência do Workfront, parte 4
 
-Os dois Caminhos de aprendizagem do Workfront One a seguir,
+Os dois roteiros de aprendizagem do Workfront One a seguir,
 
-* Fundamentos do planejador para a nova experiência do Workfront, Parte 3: gerenciar um projeto
-* Fundamentos do planejador para a nova experiência do Workfront, Parte 4: fechar um projeto
-* Linhas de Tempo do Projeto
+* Fundamentos de planejamento para a nova experiência do Workfront, parte 3: gerenciar um projeto
+* Fundamentos de planejamento para a nova experiência do Workfront, parte 4: encerrar um projeto
+* Cronogramas de projeto
 
-foram combinados em um único curso de Experience League, [Gerenciar e fechar um projeto](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.2.planners){target="_blank"}.
+foram combinados em um único curso da Experience League, [Gerenciar e encerrar um projeto](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.2.planners){target="_blank"}.
 
-O novo curso Experience League abrange os mesmos objetivos de aprendizagem que os caminhos de aprendizagem anteriores e foi otimizado, sempre que possível, para proporcionar uma experiência de aprendizagem abrangente.  Explore a biblioteca completa de cursos, documentação, tutoriais e comunidades do Workfront no Experience League.
+O novo curso da Experience League abrange os mesmos objetivos de aprendizado dos roteiros anteriores, mas foi otimizado ao máximo para oferecer uma experiência de aprendizado abrangente.  Explore a biblioteca completa de cursos, documentação, tutoriais e comunidades do Workfront na Experience League.
 
 ## Recursos adicionais
 
-* [Cursos do Workfront](https://experienceleague.adobe.com/?lang=en&amp;Solution=Workfront#courses)
-* [Documentação do Workfront](https://experienceleague.adobe.com/docs/workfront.html)
-* [Workfront Tutorials](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html)
-* [Comunidades Workfront](https://experienceleaguecommunities.adobe.com/t5/workfront/ct-p/workfront)
+* [Cursos do Workfront](https://experienceleague.adobe.com/?lang=pt-BR&amp;Solution=Workfront#courses)
+* [Documentação do Workfront](https://experienceleague.adobe.com/docs/workfront.html?lang=pt-BR)
+* [Tutoriais do Workfront](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html?lang=pt-BR)
+* [Comunidades do Workfront](https://experienceleaguecommunities.adobe.com/t5/workfront/ct-p/workfront)
